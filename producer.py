@@ -6,5 +6,3 @@ from kafka import KafkaProducer
 """
 class ProducerCuntomizer(KafkaProducer):
     pass
-
-
